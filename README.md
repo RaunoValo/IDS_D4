@@ -17,4 +17,4 @@ Authors: Iris Kreinin, Raiko Valo, Rauno Valo
 - ufo-sightings-transformed.csv
 
 ## Replicate analysis
-To replicate the analysis, clone the repository, open the `Project D4: UFO Sightings.ipynb` notebook file, and run all cells. This will generate HTML map of sightings (if not loading, refresh the page). If using Google Colab, download the HTML file before viewing.
+To replicate the analysis, clone the repository, open the `Project D4: UFO Sightings.ipynb` notebook file, and run all cells. This will generate HTML map of sightings (if not loading, refresh the page).
