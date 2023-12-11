@@ -16,4 +16,4 @@ Datasets:
 - ufo-sightings-transformed.csv
 
 ## Replicate analysis
-To replicate analysis clone reposotory and open `Project D4: UFO Sightings.ipynb` notebook file and run all cells. This will generate html maps of sighitings (might not load, in that case refresh page). If using colab, html files must be downloaded before viewing.
+To replicate the analysis, clone the repository, open the `Project D4: UFO Sightings.ipynb` notebook file, and run all cells. This will generate HTML maps of sightings (if not loading, refresh the page). If using Google Colab, download the HTML files before viewing.
