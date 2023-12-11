@@ -9,10 +9,10 @@ Authors: Iris Kreinin, Raiko Valo, Rauno Valo
 - Historical Overview: Provide an overview of common UFO sighting locations, tracking popularity trends over the past century.
 
 ## Contents of the repository
-Notebook:
+### Notebook:
 - Project D4: UFO Sightings.ipynb (all of analysis done in this file)
-  
-Datasets:
+
+### Datasets:
 - complete.csv
 - ufo-sightings-transformed.csv
 
