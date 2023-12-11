@@ -1,7 +1,7 @@
 # IDS_D4
 
 ## Project D4: UFO Sightings
-authors: Iris Kreinin, Raiko Valo, Rauno Valo
+Authors: Iris Kreinin, Raiko Valo, Rauno Valo
 
 ## Motivation and goal
 - Predictive Analysis: Anticipate the location and time of future UFO sightings.
@@ -16,4 +16,4 @@ Datasets:
 - ufo-sightings-transformed.csv
 
 ## Replicate analysis
-To replicate analysis clone reposotory and open `Project D4: UFO Sightings.ipynb` notebook file and run all cells.
+To replicate analysis clone reposotory and open `Project D4: UFO Sightings.ipynb` notebook file and run all cells. This will generate html maps of sighitings (might not load, in that case refresh page). If using colab, html files must be downloaded before viewing.
